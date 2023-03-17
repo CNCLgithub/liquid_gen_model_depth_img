@@ -19,7 +19,7 @@ Then use the following command to install
 
 where you can have `./ss.sif` instead of `${path_to_downloaded_singularity_container}` if you have been following along.
 
-Remember to install SPlisHSPlasH inside this project directory. i.e., the structure should look like `liquid_gen_model/SPlisHSPlasH/` 
+Remember to install SPlisHSPlasH inside this project directory. i.e., the structure should look like `liquid_gen_model_depth_img/SPlisHSPlasH/` 
 
 ## Get started with the model
 use `./setup.sh all` to install all the modeling environment. Please note that if packages for Julia cannot be installed in this way, run `./run.sh julia` to open Julia interface and install them manually. 
