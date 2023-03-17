@@ -1,0 +1,17 @@
+pyyaml
+multiprocess
+joblib
+scipy
+numpy
+transforms3d
+matplotlib
+mkl==2018.0.3
+mkl-devel
+cffi
+Pillow
+h5py
+openexr
+requests
+opencv-python
+torch
+torchvision
